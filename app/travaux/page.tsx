@@ -1,7 +1,7 @@
 export default function Works() {
   return (
     <main>
-      <p>Nos travaux</p>
+      <h2>Nos travaux</h2>
     </main>
   );
 }
